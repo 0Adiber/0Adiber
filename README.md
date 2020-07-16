@@ -1,16 +1,20 @@
-### Hi there 👋
+## Guten Tag.. I am Adrian 🙉
+.. a 17 y/o developer and student from Austria 💻 and I really like Pizza 🍕🍕🍕
 
-<!--
-**0Adiber/0Adiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working 🔨 as an intern at BearingPoint, which allowed me to find out how big companies handle programming using Jira, Jenkins, BitBucket, etc. and it teaches me a lot of new things about Vagrant and Docker Kubernetes 🐳.
 
-Here are some ideas to get you started:
+### 🎨 Free Time
+- Programming on Secret Projects 🦺
+- Watching some YouTube
+- Playing some Games 👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Social Stuff
+<p align="center">
+  <a href="https://www.instagram.com/adib3r/">
+    <img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
+  </a>
+  <a href="https://discord.gg/7uFGcAE">
+    <img alt="Discord" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
+  </a>
+</p>
+
