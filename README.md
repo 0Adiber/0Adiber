@@ -18,3 +18,4 @@ I am currently working 🔨 as an intern at BearingPoint, which allowed me to fi
   </a>
 </p>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=0adiber&show_icons=true&title_color=fff&icon_color=ff9d00&text_color=9f9f9f&bg_color=272727)](https://github.com/anuraghazra/github-readme-stats)
