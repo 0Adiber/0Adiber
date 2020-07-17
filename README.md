@@ -9,7 +9,7 @@ I am currently working 🔨 as an intern at BearingPoint, which allowed me to fi
 - Playing some Games 👾
 
 ### 📫 Social Stuff
-<p align="center">
+<p>
   <a href="https://www.instagram.com/adib3r/">
     <img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
   </a>
