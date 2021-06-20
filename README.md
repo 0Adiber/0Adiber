@@ -7,7 +7,7 @@
 </p>
 <hr>
 
-.. a 17 y/o developer and student from Austria 💻 who is really interested Cybersecurity and Programming. I'm currently studying at [HTBLA Kaindorf](https://www.htl-kaindorf.at/) whilst working on several open source Projects.
+.. a 18 y/o developer and student from Austria 💻 who is really interested Cybersecurity and Programming. I'm currently studying at [HTBLA Kaindorf](https://www.htl-kaindorf.at/) whilst working on several open source Projects.
 
 <h3>🎨 Free Time</h3>
 
