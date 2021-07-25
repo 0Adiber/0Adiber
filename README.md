@@ -1,6 +1,6 @@
 <h3 align="center">Guten Tag.. I am Adrian 🙉</h3>
 <p align="center">
-  🔗<a href="https://adiber.rocks">Website</a>
+  🔗<a href="https://adiber.me">Website</a>
   📷<a href="https://www.instagram.com/adib3r/">Instagram</a>
   🎮<a href="https://discord.gg/7uFGcAE">Discord</a>
   🦅<a href="https://twitter.com/Aadiber">Twitter</a>
