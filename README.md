@@ -1,13 +1,13 @@
 <h3 align="center">Guten Tag.. I am Adrian 🙉</h3>
 <p align="center">
-  🔗<a href="https://adiber.me">Website</a>
+  🔗<a href="https://adiber.xyz">Website</a>
   📷<a href="https://www.instagram.com/adib3r/">Instagram</a>
   🎮<a href="https://discord.gg/7uFGcAE">Discord</a>
   🦅<a href="https://twitter.com/Aadiber">Twitter</a>
 </p>
 <hr>
 
-.. a 18 y/o developer and student from Austria who is really interested Cybersecurity and Programming. I'm currently studying at [HTBLA Kaindorf](https://www.htl-kaindorf.at/)
+.. a 19 y/o developer and student from Austria who is really interested Cybersecurity and Programming. I'm currently studying at [HTBLA Kaindorf](https://www.htl-kaindorf.at/)
 
 <h3>Always busy</h3>
 
